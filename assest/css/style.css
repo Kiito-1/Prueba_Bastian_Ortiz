@@ -115,10 +115,10 @@ footer {
     opacity: 24;
 }
 
-/*Este debes cambiar Kito*/
+
 /*.caracteristica:hover i {
-    transform: scale(1.8);
-    transition: transform 0.5s;
+    transform: scale(2);
+    transition: transform 0.6s;
 }*/
 
 #productos {
